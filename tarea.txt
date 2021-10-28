@@ -1,0 +1,7 @@
+01. transformar el ejercicio de clima y el de animales a switch
+
+02. hacer un switch con frutas
+
+03. hacer un switch que evalúe un rango de números para clima (hacerlo igual que en el de los niveles de escuela)
+
+04. pasar todos los ejercicios que hicimos a funciones, tanto con function como con const flecha y flecha solo. Chequear que todo funcione bien, ver cuáles necesitan parámetros y cuáles no.
